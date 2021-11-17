@@ -1,6 +1,6 @@
 # music-player
 
-A standard music player to help me get accustomed with C# and Visual Studio. Uses Windows Media Player in the backend. Still needs a lot of UI changes. 
+A standard music player to help me get accustomed to C#, Visual Studio, and .NET. Uses Windows Media Player in the backend. Still needs a lot of UI changes. 
 
 ## Features
 
